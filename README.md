@@ -9,7 +9,7 @@ Sistema de gerenciamento de clientes, discos e compras, desenvolvido em **Spring
 - **Spring Boot**
 - **Spring Security**
 - **Spring Data JPA / Hibernate**
-- **H2 Database** (ou outro configurado no `application.properties`)
+- **H2 Database**
 - **Maven**
 - **MapStruct** (mapeamento DTO ↔ Entidade)
 - **IntelliJ IDEA** para desenvolvimento
@@ -138,4 +138,5 @@ Usuários criados via endpoint /cliente recebem role padrão USER.
 ---
 
 ## 📄 Licença
+
 Este projeto é de uso acadêmico e foi desenvolvido para fins de aprendizado.
