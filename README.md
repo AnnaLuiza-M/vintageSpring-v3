@@ -116,12 +116,18 @@ DELETE /compra/{id} → Remover compra (ADMIN)
 
 ## 📃Como Executar o Projeto
 
-Acesse este link: 
+Acesse este link: https://github.com/AnnaLuiza-M/vintageSpring-v3
+
+Clique em "Code" → "Download ZIP" → Aguarde o Download
+
+Após o Download → extraia o arquivo ZIP para uma pasta → abra o IntelliJ e clique em "New project from existing sources" → Selecione a pasta do projeto → Selecione a opção "Maven" para gerenciar dependências. 
 
 ---
 
 ## ⚠️ Observações Importantes
 Senha dos usuários é armazenada de forma criptografada.
+
+A porta usada no projeto é **1708**.
 
 Role define as permissões (USER ou ADMIN).
 
