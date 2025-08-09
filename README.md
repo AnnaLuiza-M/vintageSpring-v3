@@ -42,7 +42,7 @@ Sistema de gerenciamento de clientes, discos e compras, desenvolvido em **Spring
 | **Listar cliente**                    | ADMIN                |
 | **Deletar compra**                    | ADMIN                |
 | **Buscar compra por ID**              | ADMIN                |
-| **Criar compra**                      | CLIENTE autenticado  |
+| **Criar compra**                      | CLIENTE autenticado & ADMIN  |
 | **Listar compras**                    | ADMIN                |
 
 ---
@@ -140,3 +140,4 @@ Usuários criados via endpoint /cliente recebem role padrão USER.
 ## 📄 Licença
 
 Este projeto é de uso acadêmico e foi desenvolvido para fins de aprendizado.
+
